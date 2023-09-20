@@ -6,7 +6,7 @@ Para isso foi utilizado um antigo projeto de uma pokedéx para isso.
 
 Para clonar esse repositório utilize o comando:
 
-`docker clone --recursive git@github.com:mateussilvasouza/Docker-Fundamentals.git`
+`git clone --recursive git@github.com:mateussilvasouza/Docker-Fundamentals.git`
 
 Com o Docker e o Docker-compose na máquina, basta executar o comando:
 
